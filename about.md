@@ -6,15 +6,20 @@ permalink: /about/
 
 Full Stack Developer
 
-开发没有界限
+开发的世界本没有界限
 
-如果继续做一个程序员，那就拓宽自己的知识与技能，并学以致用。
+如果继续做一个开发者，那就不断拓展自己的知识与技能
 
-Full Stack 不是我们的目标，我们的目标是
+学以致用
 
-快速实现自己的想法，快速验证。
+Full Stack 不是我们的目标
+
+我们的目标是
+
+在灵光一闪时，能够快速展现
 
 努力前进。。。
 
 
-[Maybe You Want To Join Us](https://github.com/fsder)
+
+[Join Us](https://github.com/fsder)
