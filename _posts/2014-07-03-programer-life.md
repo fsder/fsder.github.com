@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Day Of A Programer"
+title: "Programer' Workflow"
 author: James
 date:   2014-07-03 17:33:49
 description: ""
