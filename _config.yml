@@ -8,5 +8,9 @@ url: "http://blog.fsder.com"
 github_username:  fsder
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 permalink: pretty
+markdown: redcarpet
+pygments: true
+# redcarpet:
+#     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
