@@ -1,7 +1,7 @@
 # Site settings
 title: Full Stack Developer
 email: fsderg@gmail.com
-description: "Write the code, Change the world."
+description: "Write the code, Change the world.<br>用程序书写人生"
 baseurl: ""
 url: "http://blog.fsder.com"
 # twitter_username: jekyllrb
