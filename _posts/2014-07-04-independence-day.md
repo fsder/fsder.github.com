@@ -17,7 +17,24 @@ tags: []
 
 
 [自由女神像](http://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F)铭文:
->不同于希腊传说的铜塑巨神， 以征服者的雄姿横跨两岸陆地； 在我们落日映波的国门将会屹立 一位高擎火炬的威武女神， 以禁锢的雷电为火，而她的芳名是 流亡者之母。从她灯塔般的手上 燃起对万邦的欢迎之光；她温柔的目光 俯瞰着那长桥飞架的双城海港。 “旧世界，留着你过去的壮丽恢宏！” 她沉默的双唇喊，“给我你那疲惫、困顿、 渴求自由呼吸的芸芸众生， 你那挤满海岸的可怜贱民！ 把他们，把那些无家可归、颠沛流离者送来， 我在这金色的门边举灯相迎！”
+
+>        "The New Colossus"
+
+>Not like the brazen giant of Greek fame,
+With conquering limbs astride from land to land;
+Here at our sea-washed, sunset gates shall stand
+A mighty woman with a torch, whose flame
+Is the imprisoned lightning, and her name
+Mother of Exiles. From her beacon-hand
+Glows world-wide welcome; her mild eyes command
+The air-bridged harbor that twin cities frame.
+"Keep, ancient lands, your storied pomp!" cries she
+With silent lips. "Give me your tired, your poor,
+Your huddled masses yearning to breathe free,
+The wretched refuse of your teeming shore.
+Send these, the homeless, tempest-tossed to me,
+I lift my lamp beside the golden door!"
+
 
 其实我要的不多，只是不想花钱买VPN.  
 
