@@ -1,3 +1,1 @@
-jusblog.fsde
-================
 Just Log
