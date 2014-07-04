@@ -60,16 +60,18 @@ task :post do
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
   
+  datetime = Time.now.strftime('%Y-%m-%d %H:%M')
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "date: \"#{datetime}\""
     post.puts 'description: ""'
     post.puts "category: #{category}"
     post.puts "tags: #{tags}"
     post.puts "---"
-    post.puts "{% include JB/setup %}"
+    # post.puts "{% include JB/setup %}"
   end
 end # task :post
 
