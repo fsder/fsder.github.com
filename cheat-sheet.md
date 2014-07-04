@@ -7,7 +7,7 @@ permalink: /cheat-sheet/
 GitHub
 ======
 
-* [github-cheat-sheet](https://github.com/tmgreen/github-cheat-sheet)
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 Markdown
 ========
