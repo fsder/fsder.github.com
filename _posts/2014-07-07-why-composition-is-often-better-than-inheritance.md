@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[译]为什么组合经常比继承更合适"
+author: James
 date: "2014-07-07 19:55"
 description: ""
 category: 
