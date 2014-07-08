@@ -29,5 +29,11 @@ Vim
 Go
 ===
 
+Other
+=====
+* 
 
+People
+======
+* [Jeffrey Dean](http://research.google.com/people/jeff/)
 
