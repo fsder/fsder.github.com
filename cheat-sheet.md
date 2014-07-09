@@ -29,8 +29,9 @@ Vim
 Go
 ===
 
-Methodology
-===========
+方法论 Methodology
+==================
+* [google style guide](https://code.google.com/p/google-styleguide/)
 * Rob Pike's [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
 
 People
