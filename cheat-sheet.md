@@ -29,11 +29,15 @@ Vim
 Go
 ===
 
-Other
-=====
-* 
+Methodology
+===========
+* Rob Pike's [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
 
 People
 ======
 * [Jeffrey Dean](http://research.google.com/people/jeff/)
 
+
+Other
+=====
+* 
