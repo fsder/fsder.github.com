@@ -36,7 +36,11 @@ Go
 
 People
 ======
+(In No Particular Order)
+
 * [Jeffrey Dean](http://research.google.com/people/jeff/)
+* [Stephen Wolfram](http://blog.stephenwolfram.com/)
+
 
 
 Other
