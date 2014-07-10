@@ -28,6 +28,7 @@ Vim
 
 Go
 ===
+* [Awesome Go](https://github.com/avelino/awesome-go)
 
 方法论 Methodology
 ==================
