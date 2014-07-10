@@ -7,18 +7,16 @@ category:
 tags: []
 ---
 
-服务端原则
-==========
+# 服务端原则
 
-可用(Availability)
--------------------
-可靠性(Reliability)
--------------------
-灵活性(Flexibility)
--------------------
+## 可用性(Availability)
 
-程序设计原则
-============
+## 可靠性(Reliability)
+
+## 灵活性(Flexibility)
+
+# 程序设计原则
+
 * 避免重复原则(DRY - Don’t repeat yoursel
 * 抽象原则(Abstraction Principle)
 * 简单原则(Keep It Simple and Stupid)
@@ -40,8 +38,8 @@ tags: []
 
 出处: [英文](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) [中文](http://www.csdn.net/article/2011-07-29/302424)
 
-面向对象设计 SOLID
-===================
+# 面向对象设计 SOLID
+
 * 单一职责原则(Single-Resposibility Principle)
 * 开放封闭原则(Open-Closed principle)
 * Liskov替换原则(Liskov-Substituion Principle)
