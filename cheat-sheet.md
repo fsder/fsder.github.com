@@ -46,4 +46,4 @@ People
 
 Other
 =====
-* 
+* [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
