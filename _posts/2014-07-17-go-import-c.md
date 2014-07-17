@@ -14,7 +14,7 @@ C 语言部分
 
 interface.h
 
-``` c
+```c
 
 int Test(int a);
 
@@ -22,7 +22,7 @@ int Test(int a);
 
 interface.c
 
-``` c
+```c
 
 #include "interface.h"
 

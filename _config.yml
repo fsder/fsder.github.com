@@ -10,10 +10,34 @@ github_username:  fsder
 # Build settings
 # markdown: kramdown
 permalink: pretty
-markdown: redcarpet
+# markdown: redcarpet
 # pygments: true
 # redcarpet:
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+markdown:    kramdown
+# highlighter: pygments
+# pygments: true
+# safe: true
+# auto: true
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+# permalink:   /:categories/:title/
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
 
 # Author details.
