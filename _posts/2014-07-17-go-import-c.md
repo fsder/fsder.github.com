@@ -14,15 +14,15 @@ C 语言部分
 
 interface.h
 
-~~~ C
+``` c
 
 int Test(int a);
 
-~~~
+```
 
 interface.c
 
-``` C
+``` c
 
 #include "interface.h"
 
@@ -49,6 +49,18 @@ Go 语言部分
 main.go
 
 ``` go
+package main
+
+// #cgo CFLAGS:
+// #cgo LDFLAGS: -L. libinterface.a
+// #include "interface.h"
+import "C"
+
+import "fmt"
+
+func main() {
+	fmt.Println(C.Test(100))
+}
 
 
 ```
