@@ -14,6 +14,24 @@ C 语言部分
 
 interface.h
 
+~~~ C
+
+int Test(int a);
+
+~~~
+
+interface.c
+
+``` C
+
+#include "interface.h"
+
+int Test(int a)
+{
+    return a;
+}
+
+```
 
 先将 C 部分编译成静态库
 
@@ -30,6 +48,10 @@ Go 语言部分
 
 main.go
 
+``` go
+
+
+```
 
 编译并运行
 
