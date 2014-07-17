@@ -22,8 +22,8 @@ permalink: pretty
 markdown:    kramdown
 # highlighter: pygments
 # pygments: true
-# safe: true
-# auto: true
+safe: true
+auto: true
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink:   /:categories/:title/
