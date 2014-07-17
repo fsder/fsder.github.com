@@ -40,6 +40,7 @@ People
 (In No Particular Order)
 
 * [Jeffrey Dean](http://research.google.com/people/jeff/)
+* [Kevin Kelly](http://kk.org/)
 * [Stephen Wolfram](http://blog.stephenwolfram.com/)
 
 
