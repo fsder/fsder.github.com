@@ -7,6 +7,11 @@ url: "http://blog.fsder.com"
 twitter_username: fsderg
 github_username:  fsder
 
+analytics :
+    provider : google
+    google :
+    tracking_id : 'UA-52937076-1'
+
 # Build settings
 # markdown: kramdown
 permalink: pretty
