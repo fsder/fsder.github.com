@@ -7,6 +7,7 @@ category:
 tags: []
 ---
 
+
 Go 中调用 C 代码库，自己实现 C 静态库，过程如下
 
 C 语言部分
@@ -35,14 +36,6 @@ int Test(int a)
 
 先将 C 部分编译成静态库
 
-``` sh
-
-$gcc -c interface.c
-$ar -r interface.a interface.o
-ar: creating archive interface.a
-
-```
-
 Go 语言部分
 ===========
 
@@ -67,11 +60,4 @@ func main() {
 
 编译并运行
 
-``` sh
-
-$go build main.go
-$./main
-100
-
-```
 
