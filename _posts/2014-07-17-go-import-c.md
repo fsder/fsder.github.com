@@ -14,11 +14,11 @@ C 语言部分
 
 interface.h
 
-``` C
+~~~ C
 
 int Test(int a);
 
-```
+~~~
 
 interface.c
 
