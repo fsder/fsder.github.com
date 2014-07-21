@@ -43,6 +43,11 @@ People
 * [Kevin Kelly](http://kk.org/)
 * [Stephen Wolfram](http://blog.stephenwolfram.com/)
 
+Book
+====
+
+* [The Nature of Code](http://natureofcode.com/)
+
 
 
 Other
