@@ -42,6 +42,7 @@ People
 * [Jeffrey Dean](http://research.google.com/people/jeff/)
 * [Kevin Kelly](http://kk.org/)
 * [Stephen Wolfram](http://blog.stephenwolfram.com/)
+* [Craig Mullins](http://en.wikipedia.org/wiki/Craig_Mullins)
 
 Book
 ====
