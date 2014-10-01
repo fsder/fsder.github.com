@@ -54,3 +54,5 @@ Book
 Other
 =====
 * [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
+* [How to Start a Startup](http://startupclass.samaltman.com/)
+
